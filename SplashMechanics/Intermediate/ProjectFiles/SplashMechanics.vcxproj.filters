@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SplashMechanics.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{60418527-0A15-4A9C-869B-C2674EB51510}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SplashMechanics.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SplashMechanicsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C363F37C-006D-49B4-92C0-CECC4C842E27}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SplashMechanics">
+      <UniqueIdentifier>{D30ED3D5-3215-48AE-BE7A-6E1D2F9D07C9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SplashMechanics\Orbiter.cpp">
+      <Filter>Source\SplashMechanics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SplashMechanics\Orbiter.h">
+      <Filter>Source\SplashMechanics</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SplashMechanics\SplashMechanics.Build.cs">
+      <Filter>Source\SplashMechanics</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SplashMechanics\SplashMechanics.cpp">
+      <Filter>Source\SplashMechanics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SplashMechanics\SplashMechanics.h">
+      <Filter>Source\SplashMechanics</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

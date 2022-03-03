@@ -1,0 +1,2 @@
+C:\Users\conno\Documents\Unreal Projects\SplashMechanics\SplashMechanics\Intermediate\Build\Win64\UE4Editor\Development\SplashMechanics\Definitions.SplashMechanics.h
+C:\Users\conno\Documents\Unreal Projects\SplashMechanics\SplashMechanics\Source\SplashMechanics\SplashMechanics.h

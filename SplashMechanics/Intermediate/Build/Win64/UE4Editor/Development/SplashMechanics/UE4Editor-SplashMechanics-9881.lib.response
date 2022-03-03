@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SplashMechanics-9881.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\w1731451\Documents\SplashStudio_EngagementWeek_Project-main\SplashMechanics\Intermediate\Build\Win64\SplashMechanicsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\w1731451\Documents\SplashStudio_EngagementWeek_Project-main\SplashMechanics\Intermediate\Build\Win64\UE4Editor\Development\SplashMechanics\Orbiter.cpp.obj"
+"C:\Users\w1731451\Documents\SplashStudio_EngagementWeek_Project-main\SplashMechanics\Intermediate\Build\Win64\UE4Editor\Development\SplashMechanics\SplashMechanics.cpp.obj"
+"C:\Users\w1731451\Documents\SplashStudio_EngagementWeek_Project-main\SplashMechanics\Intermediate\Build\Win64\UE4Editor\Development\SplashMechanics\Orbiter.gen.cpp.obj"
+"C:\Users\w1731451\Documents\SplashStudio_EngagementWeek_Project-main\SplashMechanics\Intermediate\Build\Win64\UE4Editor\Development\SplashMechanics\SplashMechanics.init.gen.cpp.obj"
+"C:\Users\w1731451\Documents\SplashStudio_EngagementWeek_Project-main\SplashMechanics\Intermediate\Build\Win64\UE4Editor\Development\SplashMechanics\Default.rc2.res"
+/OUT:"C:\Users\w1731451\Documents\SplashStudio_EngagementWeek_Project-main\SplashMechanics\Intermediate\Build\Win64\UE4Editor\Development\SplashMechanics\UE4Editor-SplashMechanics-9881.lib"
