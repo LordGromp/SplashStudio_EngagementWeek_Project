@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\conno\\Documents\\Unreal Projects\\SplashMechanics\\SplashMechanics\\Source\\SplashMechanics\\SplashMechanics.Build.cs",
+		"C:\\Users\\conno\\Documents\\Unreal Projects\\SplashMechanics\\SplashMechanics\\Source\\SplashMechanics.Target.cs",
+		"C:\\Users\\conno\\Documents\\Unreal Projects\\SplashMechanics\\SplashMechanics\\Source\\SplashMechanicsEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

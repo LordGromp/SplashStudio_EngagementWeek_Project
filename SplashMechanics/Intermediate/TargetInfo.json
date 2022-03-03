@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SplashMechanics",
+			"Path": "C:\\Users\\w1731451\\Documents\\SplashStudio_EngagementWeek_Project-main\\SplashMechanics\\Source\\SplashMechanics.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SplashMechanicsEditor",
+			"Path": "C:\\Users\\w1731451\\Documents\\SplashStudio_EngagementWeek_Project-main\\SplashMechanics\\Source\\SplashMechanicsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
