@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+SplashMechanics/Intermediate/CachedAssetRegistry.bin
+SplashMechanics/Saved/AutoScreenshot.png
+SplashMechanics/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+SplashMechanics/Saved/Logs/SplashMechanics.log
